@@ -6,7 +6,7 @@
 
 Communities frequently face issues like potholes, water leaks, garbage dumping, and damaged infrastructure. Reporting these issues is often slow, unstructured, and lacks proper tracking or accountability.
 
-CivicGuardianAI solves this by enabling citizens to **report, classify, prioritize, and track civic issues using AI-powered automation and real-time dashboards.**
+CivicGuardianAI solves this by enabling citizens to **report, classify, prioritize, and track civic issues using AI-powered automation and real-time dashboards.
 
 💡 Solution Overview
 
@@ -18,7 +18,7 @@ CivicGuardianAI is a full-stack AI-powered civic engagement platform that allows
 * Track issue status in real time via dashboard
 * Improve transparency between citizens and authorities
 
-The system transforms manual complaint reporting into an **intelligent, structured, and automated civic workflow.**
+The system transforms manual complaint reporting into an intelligent, structured, and automated civic workflow.
 
 ✨ Key Features
 
@@ -75,8 +75,6 @@ The system transforms manual complaint reporting into an **intelligent, structur
 ☁️ Google Technologies Used
 
 * Google Gemini API (AI issue classification & analysis)
-* Google Cloud Run (backend deployment)
-* Google Cloud Hosting / Firebase Hosting (frontend deployment)
 
 ⚙️ Installation & Setup
 
